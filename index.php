@@ -22,9 +22,9 @@ if (($handle = fopen("test.csv", "r")) !== FALSE) {
         for ($c=0; $c < $num; $c++) {
             //echo $data[$c] . "<br />\n";
             if(empty($data[$c])) {
-               $value = "&nbsp;";
+                $value = "&nbsp;";
             }else{
-               $value = $data[$c];
+                $value = $data[$c];
             }
             if ($row == 1) {
                 echo '<th>'.$value.'</th>';
@@ -37,6 +37,8 @@ if (($handle = fopen("test.csv", "r")) !== FALSE) {
             echo '</tr></thead><tbody>';
         }else{
             echo '</tr>';
+
+            
         }
         $row++;
     }
