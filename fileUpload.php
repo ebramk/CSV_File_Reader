@@ -40,6 +40,7 @@
                 header("Location: viewcsv.php");
             } else {
                 echo "An error occurred somewhere. Try again or contact the admin";
+                header("Location: viewcsv.php");
             }
         } else {
             foreach ($errors as $error) {
