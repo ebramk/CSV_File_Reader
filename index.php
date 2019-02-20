@@ -20,12 +20,14 @@
 
 
     <div class="alert alert-primary" role="alert">
-        Please upload a CSV file to get started
+        Please upload a CSV file to get started:
     </div>
 <form action="fileUpload.php" method="post" enctype="multipart/form-data">
     Upload a File:
     <input type="file" name="myfile" id="fileToUpload">
     <input type="submit" name="submit" value="Upload File Now" >
+    <input class="btn btn-primary" type="submit" name="submit" value="Upload File Now">
+
 </form>
 </body>
 </html>
