@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/viewcsv.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="153">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,7 @@
       <workItem from="1549691062247" duration="476000" />
       <workItem from="1549725963366" duration="571000" />
       <workItem from="1550588618861" duration="4840000" />
-      <workItem from="1550624898218" duration="6180000" />
+      <workItem from="1550624898218" duration="6421000" />
     </task>
     <task id="LOCAL-00001" summary="added index file">
       <created>1550593825076</created>
@@ -326,17 +326,31 @@
       <option name="project" value="LOCAL" />
       <updated>1550631592956</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="adding bootstrap table">
+      <created>1550632069425</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1550632069425</updated>
+    </task>
+    <task id="LOCAL-00028" summary="undo changes">
+      <created>1550632192359</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1550632192359</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12067000" />
+    <option name="totallyTimeSpent" value="12308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19838056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19838056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -349,7 +363,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3275862" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,7 +396,9 @@
     <MESSAGE value="added bootsrap to input button" />
     <MESSAGE value="added bootsrap to upload button" />
     <MESSAGE value="modified the headrer for second php page (viewcsv.php)" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified the headrer for second php page (viewcsv.php)" />
+    <MESSAGE value="adding bootstrap table" />
+    <MESSAGE value="undo changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="undo changes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -422,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viewcsv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="153">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
