@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -141,7 +141,7 @@
       <workItem from="1549691062247" duration="476000" />
       <workItem from="1549725963366" duration="571000" />
       <workItem from="1550588618861" duration="4840000" />
-      <workItem from="1550624898218" duration="3969000" />
+      <workItem from="1550624898218" duration="4209000" />
     </task>
     <task id="LOCAL-00001" summary="added index file">
       <created>1550593825076</created>
@@ -255,11 +255,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550629533158</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added bootstrap header">
+      <created>1550629842137</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550629842137</updated>
+    </task>
+    <task id="LOCAL-00018" summary="align header text">
+      <created>1550630019808</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550630019808</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9856000" />
+    <option name="totallyTimeSpent" value="10096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="0" width="653" height="820" extended-state="0" />
@@ -305,7 +319,9 @@
     <MESSAGE value="fixing the view html table issue." />
     <MESSAGE value="added bootstrap css" />
     <MESSAGE value="added bootstrap css and JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap css and JS" />
+    <MESSAGE value="added bootstrap header" />
+    <MESSAGE value="align header text" />
+    <option name="LAST_COMMIT_MESSAGE" value="align header text" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -346,7 +362,7 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>

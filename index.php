@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <div class="jumbotron">
-        <h1> align="center">File Upload with PHP</h1>
+        <h1 align="center">File Upload with PHP</h1>
         <p>This is a simple PHP program that reads a user uploaded scv file and displays it as an HTML table.</p>
     </div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
