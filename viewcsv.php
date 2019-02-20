@@ -26,7 +26,7 @@
 $row = 1;
 if (($handle = fopen("csv.csv", "r")) !== FALSE) {
 
-    echo '<table class="table table-striped">';
+    echo '<table border="1">';
 
     while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
         $num = count($data);
