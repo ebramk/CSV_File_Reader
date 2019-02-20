@@ -40,10 +40,9 @@ if (($handle = fopen("csv.csv", "r")) !== FALSE) {
             //echo $data[$c] . "<br />\n";
             if(empty($data[$c])) {
                 $value = "&nbsp;";
-                $result = preg_replace('/[ ,]+/', '-', trim($value));
+                
             }else{
                 $value = $data[$c];
-                $result = preg_replace('/[ ,]+/', '-', trim($value));
             }
             if ($row == 1) {
                 echo '<th>'.$value.'</th>';
