@@ -100,12 +100,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="csv.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/csv.php">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.csv.php" />
+        <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
   </component>
