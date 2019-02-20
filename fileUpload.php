@@ -32,6 +32,8 @@
             $errors[] = "This file is more than 2MB. Sorry, it has to be less than or equal to 2MB";
         }
 
+        
+
         if (empty($errors)) {
             $didUpload = move_uploaded_file($file_name, $uploadPath);
             rename($fileTmpName,$file_name);
