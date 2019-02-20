@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Ebram
- * Date: 2/19/2019
- * Time: 8:44 PM
- */
 
 $row = 1;
 if (($handle = fopen("csv.csv", "r")) !== FALSE) {
@@ -37,7 +31,6 @@ if (($handle = fopen("csv.csv", "r")) !== FALSE) {
             echo '</tr></thead><tbody>';
         }else{
             echo '</tr>';
-
         }
         $row++;
     }
