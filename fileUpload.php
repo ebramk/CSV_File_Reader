@@ -37,6 +37,7 @@
 
             if ($didUpload) {
                 echo "The file " . basename($fileName) . " has been uploaded";
+                header("Location: viewcsv.php");
             } else {
                 echo "An error occurred somewhere. Try again or contact the admin";
             }
