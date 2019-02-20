@@ -21,3 +21,32 @@
     $fileType = $_FILES['myfile']['type'];
     $fileExtension = strtolower(end(explode('.',$fileName)));
 	$file_name = 'csv.csv';
+
+	$uploadPath = $currentDir . $uploadDirectory . basename($fileName);
+
+    if (isset($_POST['submit'])) {
+
+
+
+        if ($fileSize > 2000000) {
+            $errors[] = "This file is more than 2MB. Sorry, it has to be less than or equal to 2MB";
+        }
+
+        if (empty($errors)) {
+            $didUpload = move_uploaded_file($file_name, $uploadPath);
+            rename($fileTmpName,$file_name);
+
+            if ($didUpload) {
+                echo "The file " . basename($fileName) . " has been uploaded";
+            } else {
+                echo "An error occurred somewhere. Try again or contact the admin";
+            }
+        } else {
+            foreach ($errors as $error) {
+                echo $error . "These are the errors" . "\n";
+            }
+        }
+    }
+
+
+?>
