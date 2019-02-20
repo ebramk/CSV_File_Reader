@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f98f4b0f-2649-4033-8d53-9b09cfd88d67" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -57,11 +58,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.csv" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/csv.php" />
         <option value="$PROJECT_DIR$/fileUpload.php" />
         <option value="C:/wamp64/www/form/viewcsv.php" />
         <option value="$PROJECT_DIR$/viewcsv.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -71,7 +72,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="949" />
     <option name="width" value="980" />
     <option name="height" value="1230" />
   </component>
@@ -140,7 +141,7 @@
       <workItem from="1549691062247" duration="476000" />
       <workItem from="1549725963366" duration="571000" />
       <workItem from="1550588618861" duration="4840000" />
-      <workItem from="1550624898218" duration="3564000" />
+      <workItem from="1550624898218" duration="3969000" />
     </task>
     <task id="LOCAL-00001" summary="added index file">
       <created>1550593825076</created>
@@ -240,14 +241,28 @@
       <option name="project" value="LOCAL" />
       <updated>1550628916805</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added bootstrap css">
+      <created>1550629450706</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1550629450706</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added bootstrap css and JS">
+      <created>1550629533158</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1550629533158</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9451000" />
+    <option name="totallyTimeSpent" value="9856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="653" height="820" extended-state="0" />
+    <frame x="633" y="0" width="653" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121416524" />
@@ -288,7 +303,9 @@
     <MESSAGE value="adding a redirect to view uploaded csv as html table." />
     <MESSAGE value="added a new page that will view the content of the csv uploaded from client side." />
     <MESSAGE value="fixing the view html table issue." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing the view html table issue." />
+    <MESSAGE value="added bootstrap css" />
+    <MESSAGE value="added bootstrap css and JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap css and JS" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -328,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
         </state>
       </provider>
     </entry>
